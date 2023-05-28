@@ -3,6 +3,8 @@
 
 A repository for chatting with my wordblend-ai repository.
 
+Forked based on May 26 session.
+
 This is a web application is using a Pinecone as a vectorsotre and answers questions about wordblend-ai 
 
 
